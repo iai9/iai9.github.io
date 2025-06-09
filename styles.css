@@ -3,7 +3,8 @@ body{
     padding: 0;
     font-family: 'Times New Roman', Times, serif, Georgia;
     background-color: white;
-    overflow-y: none;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .holder{
